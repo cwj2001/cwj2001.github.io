@@ -99,7 +99,8 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: async
+# theme: async
+theme: fluid  # 指定主题
 # theme: next
 
 # Deployment
