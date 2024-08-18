@@ -17,7 +17,7 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 
 ``` bash
 $ hexo server
-Hello world v
+Hello world vVV
 ```
 
 More info: [Server](https://hexo.io/docs/server.html)
