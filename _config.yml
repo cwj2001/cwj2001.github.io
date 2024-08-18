@@ -104,11 +104,11 @@ theme: async
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-# deploy:
-#   type: ''
-
 deploy:
-  type: git
-  repo: git@github.com:cwj2001/cwj2001.github.io.git
-  branch: main
+  type: ''
+
+# deploy:
+#   type: git
+#   repo: git@github.com:cwj2001/cwj2001.github.io.git
+#   branch: main
 
